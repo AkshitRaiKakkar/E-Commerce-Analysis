@@ -687,3 +687,10 @@ body.light .footer {
   z-index: 0;
   pointer-events: none;
 }
+.workflow .btn {
+  display: inline-block;
+  margin: 10px auto 20px;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
